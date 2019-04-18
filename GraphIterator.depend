@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1555412406 source:c:\users\dominik\desktop\Škola\prg\graphiterator\main.cpp
+	<iostream>
+	"Node.h"
+	"Graph.h"
+	"Iterator.h"
+
+1554640440 source:c:\users\dominik\desktop\Škola\prg\graphiterator\src\node.cpp
+	<climits>
+	"Node.h"
+
+1554639583 c:\users\dominik\desktop\Škola\prg\graphiterator\include\node.h
+
+1555156090 source:c:\users\dominik\desktop\Škola\prg\graphiterator\src\graph.cpp
+	"Graph.h"
+	"Node.h"
+
+1555156091 c:\users\dominik\desktop\Škola\prg\graphiterator\include\graph.h
+	"Node.h"
+
+1555412381 source:c:\users\dominik\desktop\Škola\prg\graphiterator\src\iterator.cpp
+	<climits>
+	<iostream>
+	"Iterator.h"
+	"Node.h"
+
+1555412446 c:\users\dominik\desktop\Škola\prg\graphiterator\include\iterator.h
+	<queue>
+	"Graph.h"
+	"Node.h"
+
